@@ -3,4 +3,4 @@
 
 Apparently, people do care about the programming languages other people can use, so here's my most used languages:
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5amu&layout=compact&theme=onedark&langs_count=10&hide=HTML,CSS,tex,powershell)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5amu&layout=compact&theme=onedark&langs_count=10&hide=Javascript,Dockerfile,Makefile,vim%20script,HTML,CSS,tex,powershell)
