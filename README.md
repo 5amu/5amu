@@ -3,4 +3,4 @@
 
 I cleaned my profile from the useless stuff and unfinished projects. Let's see how long is going to last 😄
 
-![5amu](https://github-readme-stats.vercel.app/api/top-langs/?username=5amu&layout=compact&theme=onedark&langs_count=10&hide=HTML,CSS,tex,powershell")
+![5amu](https://github-readme-stats.vercel.app/api/top-langs/?username=5amu&layout=compact&theme=onedark&langs_count=10&hide=Javascript,vim%20script,Dockerfile,makefile,HTML,CSS,tex,powershell")
