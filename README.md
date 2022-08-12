@@ -6,3 +6,5 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:casalinovalerio.cv@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/5amu)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/5amu)
+
+![5amu](https://github-readme-stats.vercel.app/api/top-langs/?username=5amu&layout=compact&theme=onedark&langs_count=10&hide=Javascript,vim%20script,Dockerfile,makefile,HTML,CSS,tex,powershell")
