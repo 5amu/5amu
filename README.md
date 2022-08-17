@@ -1,7 +1,6 @@
 
 ## Links and Contacts
 
-
 [![Website](https://img.shields.io/website?down_color=lightgray&down_message=down%20%3A%28&label=casalinovalerio.com&style=for-the-badge&up_color=green&up_message=up%20%3A%29&url=https%3A%2F%2Fwww.casalinovalerio.com)](https://www.casalinovalerio.com)
 [![Website](https://img.shields.io/website?down_color=lightgray&down_message=down%20%3A%28&label=ppa.casalino.xyz&style=for-the-badge&up_color=green&up_message=up%20%3A%29&url=https%3A%2F%2Fppa.casalino.xyz)](https://ppa.casalino.xyz)
 [![Website](https://img.shields.io/website?down_color=lightgray&down_message=down%20%3A%28&label=staresc.github.io&style=for-the-badge&up_color=green&up_message=up%20%3A%29&url=https%3A%2F%2Fstaresc.github.io)](https://staresc.github.io)
@@ -11,13 +10,9 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/5amu)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/5amu)
 
-
 ## Languages and Technologies
 
-
 <img align="left" width="350" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5amu&layout=compact&theme=onedark&langs_count=10&hide=Javascript,vim%20script,Dockerfile,makefile,HTML,CSS,tex,powershell">
-
----
 
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
@@ -32,3 +27,4 @@
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![RHEL](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
