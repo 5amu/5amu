@@ -6,5 +6,6 @@
 
 <p>
   <a href="https://github.com/5amu/goad"><img width="150" src="https://raw.githubusercontent.com/5amu/goad/main/assets/goad_logo.png" width="200px" alt="GoAD"></a>
-  <a href="https://github.com/5amu/dnshunter"><img width="150" src="https://raw.githubusercontent.com/5amu/dnshunter/main/assets/dnshunter_logo.png" width="200px" alt="DNSHunter"></a>
+  <a href="https://github.com/5amu/dnshunter"><img width="150" src="https://raw.githubusercontent.com/5amu/dnshunter/main/assets/dnshunter_logo.png" width="200px" alt="DNSHunter"></a> 
+  <a href="https://github.com/5amu/pocbrowser"><img width="150" src="https://raw.githubusercontent.com/5amu/pocbrowser/main/assets/pocbrowser_logo.png" width="200px" alt="POCBrowser"></a>
 </p>
