@@ -4,7 +4,5 @@
 
 ## Projects I Have Contributed To
 
-<!-- start: readme-repos-list -->
-<!-- This list is auto-generated using readme-repos-list -->
-<!-- Do not edit this list manually, your changes will be overwritten -->
-<!-- end: readme-repos-list -->
+<!-- start: contributions-list -->
+<!-- end: contributions-list -->

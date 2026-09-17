@@ -1,0 +1,35 @@
+# Save this file as .github/workflows/update-contributions.yml
+# in your profile README repo (yourusername/yourusername).
+name: Update Contributions List
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # weekly, Sunday at midnight UTC
+  workflow_dispatch: # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Count contributions and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: 5amu
+        run: node count-contributions.js
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update contributions list"
+          git push
