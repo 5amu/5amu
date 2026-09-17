@@ -5,5 +5,12 @@
 ## Projects I Have Contributed To
 
 <!-- start: contributions-list -->
-
+- [staresc/staresc](https://github.com/staresc/staresc) — 211 commits
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) — 20 commits
+- [wiredlush/easy-gate](https://github.com/wiredlush/easy-gate) — 3 commits
+- [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156) — 1 commit
+- [lokiuox/rsockstun](https://github.com/lokiuox/rsockstun) — 1 commit
+- [MayankPandey01/Jira-Lens](https://github.com/MayankPandey01/Jira-Lens) — 1 commit
+- [KatharaFramework/Kathara](https://github.com/KatharaFramework/Kathara) — 1 commit
+- [FuocomanSap/ExploitableMachine](https://github.com/FuocomanSap/ExploitableMachine) — 1 commit
 <!-- end: contributions-list -->
