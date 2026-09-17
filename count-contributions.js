@@ -35,7 +35,7 @@ async function getMergedPrRepos() {
 
   while (true) {
     const url =
-      `https://api.github.com/search/issues?q=author:${USERNAME}+type:pr+is:merged+is:publici+-user:${USERNAME}` +
+      `https://api.github.com/search/issues?q=author:${USERNAME}+type:pr+is:merged+is:public+-user:${USERNAME}` +
       `&per_page=100&page=${page}`;
     const res = await fetch(url, { headers });
     if (!res.ok) {
