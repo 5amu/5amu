@@ -1,0 +1,17 @@
+name: README Repos List
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run readme-repos-list
+        uses: DenverCoderOne/readme-repos-list@v2.0.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          query: "author:5amu is:pr is:merged is:public"
+          max: 100
